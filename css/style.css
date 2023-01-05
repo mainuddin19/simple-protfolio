@@ -35,7 +35,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin:50px 200px;
+    padding:50px 200px;
 }
 
 nav ul{
@@ -68,7 +68,8 @@ nav li{
 }
 .banner-description{
 font-size: 18px;
-color:#757575
+color:#757575;
+margin-bottom: 15px;
 }
 
 /* main sectioon */

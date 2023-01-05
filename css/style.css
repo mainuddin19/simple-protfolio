@@ -75,7 +75,9 @@ img{
 }
 
 /* main sectioon */
-
+section{
+    margin-top: 130px;
+}
 main{
     width:1140px;
     margin:0 auto;
@@ -113,3 +115,33 @@ margin-bottom: 50px;
     font-weight: 700;
 
 }
+/* skills  styles */
+
+.skills img{
+    width: 50px;
+    height: 50px;
+}
+.skills-My{
+    margin-top: 130px;
+}
+.skills{
+    background-color: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(165, 163, 163, 0.6);
+    border-radius: 5px;
+    padding: 10px;
+}
+.skills-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.my-skils-title{
+    margin-bottom: 130px;
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+    gap:24px;
+}
+/* resume styles */
